@@ -5,7 +5,7 @@ Hi, I'm Jose Teran or Nighty, fullstack developer and university student.
 I am focused on mastering the tools I have chosen to create efficient, scalable and convenient applications for my customers. My stack is based on Typescript, it contains for the frontend Next.js for web applications and React Native for multiplatform, in the backend I use NestJS together with PostgreSQL.
 
 - 💻 Software Engineer at Pontificia Universidad Católica del Ecuador
-- 📚 Currently learning: NestJS
+- 📚 Currently learning: Web & Mobile development
 - ⚡ Fun fact: That the NestJS logo is a cat makes me love it even more 
 
 ## 🛠️ Technologies & Tools  

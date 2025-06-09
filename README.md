@@ -4,5 +4,4 @@
 Hi, I'm Jose Teran or Nighty, fullstack developer and university student.
 
 - 💻 Software Engineer at Pontificia Universidad Católica del Ecuador
-- 📚 Currently learning: Web & Mobile development
-- ⚡ Fun fact: That the NestJS logo is a cat makes me love it even more 
+- 📚 Currently learning: Web development
